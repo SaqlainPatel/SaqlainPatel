@@ -50,7 +50,6 @@
 ### 📊 GitHub Stats & Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaqlainPatel&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaqlainPatel&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%"/>
 </div>
 
 <div align="center">
@@ -59,9 +58,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SaqlainPatel&icon=5&color=6" alt="Profile Views"/>
-</div>
 
 <div align="center">
   <sub>Built with 💚 & clean code principles • Proudly powered by Python</sub>
